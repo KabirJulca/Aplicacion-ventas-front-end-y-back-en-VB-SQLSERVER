@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="sisventas.conexion" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controlador\conexion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fbackup" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fbackup.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fcategoria" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAgAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fcategoria.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fcliente" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAgAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fcliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fdetalle_venta" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAQEAAAAgAAAAAAAAAAAABgAAAAAAAA=</HashCode>
+      <FileName>Controlador\fdetalle_venta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fproducto" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAgAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fproducto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fusuario" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fusuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.fventa" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAgAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controlador\fventa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAUAAAQExBAAApAlAwAYAACgAoCQJwACAASAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAWIAAQExBAQApA1AyAZAAChQsCQZwBCAASAgECBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vcategoria" Collapsed="true">
+    <Position X="25.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>Modelo\vcategoria.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vcliente" Collapsed="true">
+    <Position X="27" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAABAAQAIAAAiAAAAABAEQAAAAAEgAAAAAAAAAI=</HashCode>
+      <FileName>Modelo\vcliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vdetalle_venta" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAAgAEAABAAAAAAACAAAAAADAQAAAAAAQAA=</HashCode>
+      <FileName>Modelo\vdetalle_venta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vproducto" Collapsed="true">
+    <Position X="21.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEQAAAAAAgAAiQAAEAAAQEEABAAIAAIAAAAAAEQgQ=</HashCode>
+      <FileName>Modelo\vproducto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vusuario" Collapsed="true">
+    <Position X="23.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIAQAABQAQEIACAiAAAAAAAAQQAAAAAAAAAAiAAEAI=</HashCode>
+      <FileName>Modelo\vusuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.vventa" Collapsed="true">
+    <Position X="25.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAIAAACAAABABFgAAAAQAEAAA=</HashCode>
+      <FileName>Modelo\vventa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmreportecomprobante" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACQAgAAAAACAAAACAAAAAAAAAAAAAAQAQQA=</HashCode>
+      <FileName>Reportes\frmreportecomprobante.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmreporteproductos" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAABAAAAACAAAICEAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Reportes\frmreporteproductos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmbackupbase" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAACAAAACAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vista\frmbackupbase.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmcategoria" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAMGDwAAAAEnAiBAAACAAYDMAAiAMRAQAQAIAg=</HashCode>
+      <FileName>Vista\frmcategoria.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmcliente" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAwQAAMmDwEQIAEnAiBEABCAAYDMAAgAMRCIAwAIAg=</HashCode>
+      <FileName>Vista\frmcliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmdetalle_venta" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgEAAEMCQQwACUnAiRAMgChAIxaAARAIRAEAAAsAg=</HashCode>
+      <FileName>Vista\frmdetalle_venta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frminicio" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lUAUDZjBECCDECFAAHiEIUoDwgABAUBACCiAg4SJICI=</HashCode>
+      <FileName>Vista\frminicio.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmlogin" Collapsed="true">
+    <Position X="27" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAMCAAIAAAAACAABACgAAAIQAAAEAAACANAAA=</HashCode>
+      <FileName>Vista\frmlogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmproducto" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAkCAAMGD0ABAAEnAjBAAAikAcjPEAgAMRAQCQArgg=</HashCode>
+      <FileName>Vista\frmproducto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.frmventa" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAMEDQAwACElAiBgAAChAYjIAAQBMZAEBQIIAg=</HashCode>
+      <FileName>Vista\frmventa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.categoriaTableAdapter" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.clienteTableAdapter" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.detalle_ventaTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.productoTableAdapter" Collapsed="true">
+    <Position X="27" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.usuarioTableAdapter" Collapsed="true">
+    <Position X="23.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.ventaTableAdapter" Collapsed="true">
+    <Position X="20" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAACAAAABABAEBAAoAMAAgAEAigACAgQYAAABARAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.categoriaTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.clienteTableAdapter" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.detalle_ventaTableAdapter" Collapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.productoTableAdapter" Collapsed="true">
+    <Position X="25.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.usuarioTableAdapter" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.ventaTableAdapter" Collapsed="true">
+    <Position X="18.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.generar_comprobanteTableAdapter" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.mostrar_categoriaTableAdapter" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.mostrar_clienteTableAdapter" Collapsed="true">
+    <Position X="27" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.mostrar_detalle_ventaTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.mostrar_productoTableAdapter" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.mostrar_ventaTableAdapter" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.QueriesTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAiACKAAAgAAACAQIACgAAAAAIAIQAEIAAgCAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.dbventasDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAACAAAABABAEBAAoAMAAgAEAigACAgQYAAABARAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.My.MyApplication" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sisventas.My.MySettings" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="sisventas.My.MySettingsProperty" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="sisventas.My.Resources.Resources" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DIACERAAEgAISIBAMAKjEgAQAQEgEIFgBwgABBAAwIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,4 +1,4 @@
-# sisventas
+# aplicación front end y back end en Visual Basic y SQLSERVER
 
 Implementación de una aplicación front end y back end en lenguaje de programación VB y SQLSERVER-TALLER DE LENGUAJES DE PROGRAMACIÓN
 
